@@ -1,5 +1,6 @@
 ## BrewApps_Project 
-Node.js Backend Developer Challenge - BrewApps 
+Node.js Backend Developer Challenge - BrewApps
+
 This Web Application is built on Node.js Express.js and BootStrap 5. The database layer of this application is deployed on MongoDB Atlas.
 
 # API Endpoints
